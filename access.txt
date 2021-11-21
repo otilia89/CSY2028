@@ -1,0 +1,5 @@
+homepageurl: https://as1.v.je/assignment1/index.php
+adminuser: otiliazamfir89@gmail.com
+adminpass: 1234
+nonadminuser: user1@gmail.com
+nonadminpassword: user1
